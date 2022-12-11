@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8" />
+      <link href="css/stylesheet-layout.css" type="text/css" rel="stylesheet">
+      <title>Daredevil</title>
+   </head>
+   <body>
+      <header>
+         <h2>Daredevil</h2>
+      </header>
+      <section>
+         <nav>
+            <ul>
+               <li><a href="index.html">Inici</a></li>
+               <li><a href="personatges.html">Personatges</a></li>
+               <li><a href="galeria.html">Galeria</a></li>
+               <li><a class="active" href="banda.html">Banda Sonora</a></li>
+               <li><a href="contacte.html">Contacta'ns</a></li>
+            </ul>
+         </nav>
+         <article>
+            <!--INICI CONTINGUT PÀGINA-->
+            <div class="fila">
+               <div class="columna">
+                  <h1><a href="https://youtu.be/FKO4xGbLNW4">Theme from Daredevil (2015 "TV Series")</a></h1>
+                  <br>
+                  <img src="imatges/dare.jpg" width="200" height="170" alt="">
+               </div>
+               <div class="columna">
+                  <h1><a href="https://youtu.be/Bar7SzNLnY0">Brown Sugar (2009 Remaster)</a></h1>
+                  <br>
+                  <img src="imatges/dare2.jpeg" width="270" height="190" alt="">
+               </div>
+               <div class="columna">
+                  <h1><a href="https://youtu.be/QLLY0UYsNDo">Train - Drops Of Jupiter</a></h1>
+                  <br>  
+                  <img src="imatges/dare3.jpg" width="280" height="190" alt="">
+               </div>
+            </div>
+            <!--FINAL CONTINGUT PÀGINA-->
+         </article>
+      </section>
+      <footer>
+         <p>by Brandon</p>
+      </footer>
+   </body>
+</html>
